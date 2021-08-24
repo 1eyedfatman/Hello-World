@@ -1,2 +1,2 @@
 # Hello-World
-Time honoured first project
+Traditional test project introducing GitHub
